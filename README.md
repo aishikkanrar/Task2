@@ -25,3 +25,5 @@ Project Structure HTML (index.html): Defines the structure of the app, containin
 CSS (styles.css): Styles the app with a modern, clean look, using gradients and subtle shadows. It also provides responsive design rules to ensure compatibility with various screen sizes.
 
 JavaScript (app.js): Contains the logic to handle user input and fetch weather data from the API. It updates the DOM elements dynamically based on the fetched data and manages the visibility and styling of elements based on user interactions.
+![Screenshot 2024-09-11 010928](https://github.com/user-attachments/assets/aaf293b7-897e-4f44-8fd8-e221ebf1f4e4)
+
